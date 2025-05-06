@@ -159,39 +159,39 @@ int main(){
     // Implementando IF/ELSE para comparacao
 
     if(populacao > populacao2) {
-        printf("Carta 1 venceu\n");
+        printf("Carta 1 venceu (Populacao)\n");
     } else {
-        printf("Carta 2 venceu\n");
+        printf("Carta 2 venceu (Populacao)\n");
     }
 
     if(area > area2) {
-        printf("Carta 1 venceu\n");
+        printf("Carta 1 venceu (Area)\n");
     } else {
-        printf("Carta 2 venceu\n");
+        printf("Carta 2 venceu (Area)\n");
     }
 
     if(pib > pib2) {
-        printf("Carta 1 venceu\n");
+        printf("Carta 1 venceu (PIB)\n");
     } else {
-        printf("Carta 2 venceu\n");
+        printf("Carta 2 venceu (PIB)\n");
     }
 
     if(turisticos > turisticos2) {
-        printf("Carta 1 venceu\n");
+        printf("Carta 1 venceu (Pontos Turisticos)\n");
     } else {
-        printf("Carta 2 venceu\n");
+        printf("Carta 2 venceu (Pontos Turisticos)\n");
     }
 
     if(densidade < densidade2) {
-        printf("Carta 1 venceu\n");
+        printf("Carta 1 venceu (Densidade)\n");
     } else {
-        printf("Carta 2 venceu\n");
+        printf("Carta 2 venceu (Densidade)\n");
     }
 
     if(pibpcap > pibpcap2) {
-        printf("Carta 1 venceu\n");
+        printf("Carta 1 venceu (Pib Per Capita)\n");
     } else {
-        printf("Carta 2 venceu\n");
+        printf("Carta 2 venceu (Pib Per Capita)\n");
     }
     
 
