@@ -182,7 +182,7 @@ int main(){
         printf("Carta 2 venceu\n");
     }
 
-    if(densidade > densidade2) {
+    if(densidade < densidade2) {
         printf("Carta 1 venceu\n");
     } else {
         printf("Carta 2 venceu\n");
