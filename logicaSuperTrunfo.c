@@ -3,6 +3,7 @@
 int main() {
 
 // Desafio Lógica Super Trunfo - Murillo :)
+// **IMPORTANTE PRO PROFESSOR**, eu sempre faço meus projetos no VSCODE mas nesses ultimos tempos meu windows corrompeu e eu perdi o projeto com os commits feitos e so me restou o resultado final, peço desculpas por isso :(
 
 
 // Variaveis
